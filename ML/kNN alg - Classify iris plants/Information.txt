@@ -1,0 +1,1 @@
+Classify iris plants into three species using KNN algorithm! Using k-D tree for faster work.
