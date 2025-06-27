@@ -1,0 +1,4 @@
+I used the Decision Tree algorithm to train the model for breast cancer recognition.ID3
+For reduce overfitting: I used PostPruning
+prevent the tree from growing too large + overfittingg: Used Pre-pruning 
+- calculateEntropy -> InformationGain
