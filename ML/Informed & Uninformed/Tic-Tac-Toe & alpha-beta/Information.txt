@@ -1,0 +1,2 @@
+Tic-tac-toe (deterministic, with imperfect information) using alpha-beta pruning.
+Choose move to position with highest minimax value.
