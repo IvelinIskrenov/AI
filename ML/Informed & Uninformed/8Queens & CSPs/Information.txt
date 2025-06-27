@@ -1,0 +1,2 @@
+Solve the 8QUEENE task using Constraint Satisfaction and min-conflict.
+For optimization: I used Max-min-conflicts with ranodmization
